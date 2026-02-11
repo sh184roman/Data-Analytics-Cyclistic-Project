@@ -8,8 +8,8 @@ Data Source: Public Cyclistic (Divvy) bike-share datasets
 Tools & Skills: Python (Pandas, NumPy), Data Cleaning, EDA, Data Visualization
 Outcome: Actionable insights to support data-driven marketing and membership growth strategies
 
-📌 Read the full analysis:
+Read the full analysis:
 
-👉 View Jupyter Notebook:
+View Jupyter Notebook:
 
 https://github.com/sh184roman/Data-Analytics-Cyclistic-Project/blob/main/Data%20Analytics%20Cyclistic.ipynb
